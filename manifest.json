@@ -2,7 +2,7 @@
   "name": "Ash Tracker - Calisthenics Tracker",
   "short_name": "Ash Tracker",
   "description": "Your path to bodyweight mastery",
-  "start_url": "/",
+  "start_url": "https://chieft3ch.github.io/workout/",
   "display": "fullscreen",
   "background_color": "#667eea",
   "theme_color": "#667eea",
